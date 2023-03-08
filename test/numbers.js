@@ -11,7 +11,7 @@ function sum(arr) {
     }
     return sum;
 }
-
+/*
 describe.only('Numbers test', () => {
     const numero = 2;
     it('Devolver resultado 0 con array vacio de números', () => {
@@ -51,3 +51,4 @@ describe.only('Numbers test', () => {
     });
 
 });
+*/

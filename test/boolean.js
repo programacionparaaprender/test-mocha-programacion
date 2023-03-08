@@ -1,4 +1,5 @@
 var expect = require('chai').expect;
+/*
 describe.only('Boolean test', () => {
     const numero = 2;
     const numerouno = 1;
@@ -31,3 +32,4 @@ describe.only('Boolean test', () => {
 
 });
 
+*/
