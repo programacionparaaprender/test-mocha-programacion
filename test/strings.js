@@ -18,6 +18,7 @@ describe('Strings test', () => {
         expect(foo).to.match(/^ba/);
         expect(foo).to.have.string('ba');
     });
+    
     it('NO incluye "fa" en la palabra', ()=> {
         expect(foo.substring(0, 2)).to.not.contains('fa');
         expect(foo).to.not.include('fa');
